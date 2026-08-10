@@ -1,4 +1,4 @@
-# webphoto  
+# webphoto
 
 <table>
 <tr>
@@ -16,17 +16,17 @@
 </tr>
 </table>
 
-<h2 id="section1">What is WebPhoto?</h2>  
-Webphoto is fast, and simple Photo editor.  
-Not need Installation.  
-You can use this in web.  
-It just need internet!  
+<h2 id="section1">What is WebPhoto?</h2>
+Webphoto is fast, and simple Photo editor.<br>
+Not need Installation.<br>
+You can use this in web.<br>
+It just need internet!<br>
 
-<h2 id="section2">How to work webphoto</h2>  
-It is using Html, Css, JS.  
-It make photo with Html.  
-How?  
-It use "SVG".  
-Html can editor SVG.  
-And can load png files.  
-We using that!  
+<h2 id="section2">How to work webphoto</h2>
+It is using Html, Css, JS.<br>
+It make photo with Html.<br>
+How?<br>
+It use "SVG".<br>
+Html can editor SVG.<br>
+And can load png files.<br>
+We using that!<br>
