@@ -32,8 +32,11 @@ It use "SVG".<br>
 Html can editor SVG.<br>
 And can load png files.<br>
 We using that!<br>
-```html   <br>
+```html
 it is descript how to make svg with html
-    <svg><rect width="100%" height="100%" fill="black"/><text x="50" y="50" fill="red">I am text</text></svg>
+
+<svg>
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="50" y="50" fill="red">I am text</text>
 </svg>
 ```
