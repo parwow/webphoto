@@ -21,6 +21,8 @@ Webphoto is fast, and simple Photo editor.<br>
 Not need Installation.<br>
 You can use this in web.<br>
 It just need internet!<br>
+Also, webphoto save date in URL.<br>
+It's mean if you share a your project URL with someone, "the someone" can see your project and edit your project.(but I don't have server, so you can't live project share)
 
 <h2 id="section2">How to work webphoto</h2>
 It is using Html, Css, JS.<br>
